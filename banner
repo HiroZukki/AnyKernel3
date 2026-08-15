@@ -1,0 +1,8 @@
+"I want to perform at Budokan with everyone, together."
+===================================
+Linux Version    : v4.19.325-cip135
+Author           : Katou Megumi
+KernelSU Version : v3.2.5 - 32582
+===================================
+- Compile with AOSP Clang 22.0.2
+- Build with Thin LTO
